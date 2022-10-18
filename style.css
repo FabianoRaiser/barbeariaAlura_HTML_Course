@@ -100,7 +100,7 @@ footer {
 
 /* CSS do Formulario da pagina de Contato */
 form {
-    margin: 40px 0;
+    margin: 40px 5%;
 }
 
 form label,
@@ -140,7 +140,7 @@ form legend {
 }
 
 table {
-    margin: 20px 0 40px;
+    margin: 20px 0 40px 5%;
 }
 
 thead {
